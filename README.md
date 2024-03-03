@@ -35,8 +35,4 @@ Users should be able to:
 | ![Image 1](./screenshots/desktop-light.jpeg) | ![Image 2](./screenshots/mobile-light.jpeg) |
 | ![Image 1](./screenshots/desktop-dark.jpeg)  | ![Image 2](./screenshots/mobile-dark.jpeg)  |
 
-## My process
-
-# rest-countries-api
-
 # rest-countries-api
